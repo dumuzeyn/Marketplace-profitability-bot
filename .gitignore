@@ -1,0 +1,7 @@
+﻿.env
+__pycache__/
+*.pyc
+outputs/
+data/*.xlsx
+data/*.sqlite
+.venv/
