@@ -198,7 +198,7 @@ Bot started
 
 Бот не гарантирует точный финансовый результат. Он помогает быстро оценить ситуацию на рынке и принять предварительное решение. Перед реальной закупкой товара лучше дополнительно проверить цены, отзывы, комиссии, логистику и спрос вручную.
 
->**????? ???????: ??????? ?????? ???????**
+>**Автор проекта: Зейналов У.Р.о.**
 
 ---
 
@@ -400,4 +400,4 @@ This can happen. Marketplaces may change page structure, limit frequent requests
 
 The bot does not guarantee exact financial results. It helps estimate the market situation and make a preliminary decision. Before purchasing real stock, it is better to manually check prices, reviews, commissions, logistics, and demand.
 
->**Author of project: specify the project author**
+>**Author of project: Zeynalov U.R.o.**
